@@ -26,7 +26,7 @@ Want to earn 100 dollars using my code on ocean-digital? https://m.do.co/c/703ff
 
 To run the project, you will need to install the following programs:
 
-- [Anew](https://github.com/tomnomnom/anew)
+- [Anew](https://github.com/tomnomnom/anew) or [anewer](https://github.com/ysf/anewer)
 - [Qsreplace](https://github.com/tomnomnom/qsreplace)
 - [Subfinder](https://github.com/projectdiscovery/subfinder)
 - [Gospider](https://github.com/jaeles-project/gospider)
